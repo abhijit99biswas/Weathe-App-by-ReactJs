@@ -1,3 +1,7 @@
+# Image of the Page and click on the image to visit the website
+<a href="https://weather-app-53634.web.app/">![DEMO](landing.png)</a>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
